@@ -12,6 +12,8 @@ gem "sqlite3", "~> 1.4"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 gem 'active_model_serializers', '~>0.10.13'
+gem"faker", "~>2.3"
+
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

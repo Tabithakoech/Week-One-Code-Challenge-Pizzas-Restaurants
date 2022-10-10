@@ -13,8 +13,8 @@ Pizza.create(name: 'Hawaiian', ingredients: 'mozzarella,ham,pineapple')
 Pizza.create(name: 'Margherita', ingredients: 'mozzarella,basil,olive-oil,salt')
 
 
-Restaurant.create(name: "Dream Bean", address: "69 West")
-Restaurant.create(name: "Pizza Inn", address: "90 East Street")
+Restaurant.create(name: "Sottocasa NYC", address: "298 Atlantic Ave, Brooklyn, NY 11201")
+Restaurant.create(name: "PizzArte", address: "69 W 55th St, New York, NY 10019")
 
 # RestaurantPizza.create(price: 5, pizza_id: 1, restaurant_id: 2)
 # RestaurantPizza.create(price: 10, pizza_id: 2, restaurant_id: 1)
